@@ -20,8 +20,8 @@ I am familiar with embedded systems and can read and debug assembly code.
 
 ## SMART Goals: 
 
-Classmates viewed: Levi Johnson, George Wieland, Ben Gundersen, and Brycen Williams.
+- Classmates viewed: Levi Johnson, George Wieland, Ben Gundersen, and Brycen Williams.
 
-SMART Goal 1 (from classmates): I will update my resume, with the help of VMOCK, to use more precise language in my project section. I plan on having this done by the end of the month.
+- SMART Goal 1 (from classmates): I will update my resume, with the help of VMOCK, to use more precise language in my project section. I plan on having this done by the end of the month.
 
-SMART Goal 2 (from job postings): I will apply to at least one job posting a day until I find a job.
+- SMART Goal 2 (from job postings): I will apply to at least one job posting a day until I find a job.
