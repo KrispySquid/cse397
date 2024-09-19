@@ -25,7 +25,7 @@ My wife, dogs, and I backpacked to Walker Lake in the White Cloud area in Idaho.
 
 ## Resume: 
 
-[Resume]()
+[Resume](https://github.com/KrispySquid/cse397/blob/main/ZWilson%20Resume.pdf)
 
 ## LinkedIn: 
 
