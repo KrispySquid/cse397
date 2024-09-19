@@ -20,7 +20,7 @@ I lost the ability to smell when I was about three years old; to this day, nobod
 
 ## Photo: 
 
-[Walker Lake]()
+![Walker Lake](https://github.com/KrispySquid/cse397/blob/main/walkerlake.jpg)
 My wife, dogs, and I backpacked to Walker Lake in the White Cloud area in Idaho. It was a 7-mile hike that was straight up a mountain. We had a fun time, though I do not think my dogs ever want to do it again.
 
 ## Resume: 
